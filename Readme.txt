@@ -46,4 +46,4 @@ Se quiser entrar em contato comigo:
 
 ## 📎 Deploy
 
-- **GitHub Pages / Vercel:** (adicione o link do seu portfólio publicado)
+-  Vercel: (https://portifolio-chi-pearl.vercel.app/)
